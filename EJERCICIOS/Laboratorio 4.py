@@ -1,0 +1,8 @@
+#print("laboratorio 2.6.1.9")
+a= float(input("Introduzca un valor A: "))
+b= float(input("Introduzca un valor B: "))
+print(" A + B = ", a+b)
+print(" A - B = ", a-b)
+print(" A * B = ", a*b)
+print(" A / B = ", a/b)
+print("\n¡Eso es todo, amigos!")

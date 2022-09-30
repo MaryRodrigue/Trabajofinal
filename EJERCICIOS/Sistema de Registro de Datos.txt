@@ -1,0 +1,28 @@
+
+DNI 	 : 75925596
+Apellidos: Rodriguez
+Nombre   : Mary
+Dirección: Pasaje los cedros
+Teléfono : 923643215
+
+Productos:
+1: clavo  
+2: cable  
+3: foco
+		
+
+
+
+DNI 	 : 45451245
+Apellidos: Rodriguez
+Nombre   : Mary
+Dirección: Pasaje los cedros
+Teléfono : 923643215
+
+Productos:
+1: clavo  
+2: cable  
+3: foco
+		
+
+

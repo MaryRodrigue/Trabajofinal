@@ -1,0 +1,98 @@
+
+DNI 	 : 75925596
+Apellidos: Rodriguez
+Nombre   : Mary
+Dirección: pasaje los cedros
+Teléfono : 923643251
+
+Productos:
+1: clavo  
+2: cable  
+3: foco
+		
+
+
+
+DNI 	 : 75925596
+Apellidos: Rodriguez
+Nombre   : Mary
+Dirección: rgh
+Teléfono : 923643251
+
+Productos:
+5:   ----  
+3: foco  
+1: clavo
+		
+
+
+
+DNI 	 : 72126554
+Apellidos: fdtyfjhg
+Nombre   : gcgj
+Dirección: gfcjgfcfj
+Teléfono : 654594968
+
+Productos:
+3: foco  
+1: clavo  
+2: cable
+		
+
+
+
+DNI 	 : 75925596
+Apellidos: bfgzdsjgoi
+Nombre   : nfgxjtcjdrt
+Dirección: jcftudt6gcjcftgj
+Teléfono : 65464561654
+
+Productos:
+2:   
+3:   
+1: 
+		
+
+
+
+DNI 	 : 75925596
+Apellidos: drydrsy5
+Nombre   : hdgtfjgdtrju
+Dirección: djyyi
+Teléfono : 651484
+
+Productos:
+2: cable  
+1: clavo  
+3: foco
+		
+
+
+
+DNI 	 : 75925596
+Apellidos: Rodriguez
+Nombre   : Mary
+Dirección: Pasaje los cedros
+Teléfono : 923643251
+
+Productos:
+2: cable  
+1: clavo  
+3: foco
+		
+
+
+
+DNI 	 : 
+Apellidos: 
+Nombre   : 
+Dirección: 
+Teléfono : 
+
+Productos:
+:   
+:   
+: 
+		
+
+
